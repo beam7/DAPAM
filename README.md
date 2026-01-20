@@ -48,7 +48,7 @@ Each entry contains:
 ## Installation
 
 ```bash
-git clone https://github.com/[username]/DAPAM.git
+git clone https://github.com/beam7/DAPAM.git
 cd DAPAM
 pip install -r requirements.txt
 ```
@@ -62,6 +62,7 @@ pip install -r requirements.txt
 - biopython
 - matplotlib
 - seaborn
+- peptides
 
 ## Mechanism Distribution
 
@@ -83,16 +84,7 @@ DAPAM was compared against **16,439 ABPs from Peptipedia** to confirm representa
 
 ## Citation
 
-If you use DAPAM in your research, please cite:
-
-```bibtex
-@article{mihalache2025dapam,
-  title={DAPAM: A Mechanism-Annotated Antibacterial Peptide Dataset},
-  author={Mihalache, Beatrice and Klein, Ari Z. and Gonzalez-Hernandez, Graciela},
-  journal={Bioinformatics},
-  year={2025}
-}
-```
+If you use DAPAM in your research, please cite this repo. Currently working to publish.
 
 ## License
 
