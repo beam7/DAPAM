@@ -1,0 +1,418 @@
+>ABP0001 mechanism=membrane_disruption | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P01512 | entry=ATTB_HYACE | match_type=subsequence
+AGALTINSDGTSGAVVKVPI
+>ABP0002 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC10812719 | uniprot=None | entry=None | match_type=no_match
+AHSIIYGVRGRGRI
+>ABP0003 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+AIAVLGEAKALMGRNIRNGIVKAGPAIAVLGEAKAL
+>5270 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC3720801 | uniprot=Q17VN3 | entry=RL1_HELAH | match_type=subsequence
+AKKVFKRLEKLFSKIQNDK
+>32680 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC3720801 | uniprot=None | entry=None | match_type=no_match
+AKKVFKRLPKLFSKIWNWK
+>27456 mechanism=pore | subtype= | gram=+ | pmc_id=PMC8347216 | uniprot=None | entry=None | match_type=no_match
+AKRFFGYKRKFF
+>3519 mechanism=membrane_disruption | subtype= | gram=+;+/- | pmc_id=PMC7369893;PMC7554977;PMC7559477;PMC8347216 | uniprot=P15516 | entry=HIS3_HUMAN | match_type=subsequence
+AKRHHGYKRKFH
+>8867 mechanism=carpet | subtype= | gram=+ | pmc_id=PMC2748101 | uniprot=None | entry=None | match_type=no_match
+ALWKTLLKKVLKAAAK
+>7178 mechanism=membrane_disruption | subtype= | gram=+ | pmc_id=PMC7098557 | uniprot=None | entry=None | match_type=no_match
+ALYKKFKKKLLKSLKRLG
+>18546 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC11302733 | uniprot=A0A5P9K470 | entry=DRS2_AGASP | match_type=subsequence
+ASWKVFLKNIGKAAGKAVLNSVTDMVNQ
+>6009 mechanism=pore | subtype= | gram= | pmc_id=PMC5453574 | uniprot=P0DV63 | entry=PLD_POLDI | match_type=exact_match
+AVAGEKLWLLPHLLKMLLTPTP
+>ABP0004 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC10232870 | uniprot=None | entry=None | match_type=no_match
+CDFIETHYLDEQVKSIKELADWVTNLRRMGAPQNGMAEYLFD
+>20181 mechanism=pore | subtype= | gram= | pmc_id=PMC6418133 | uniprot=None | entry=None | match_type=no_match
+CFLPKLFAKITKKNMAHIR
+>ABP0005 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC7369893 | uniprot=P07086 | entry=ALPS_LIMPO | match_type=subsequence
+CHYRIKPTFRRLKWKYKGKFWC
+>ABP0006 mechanism=pore | subtype= | gram= | pmc_id=PMC3749967 | uniprot=Q8VZK8 | entry=THN23_ARATH | match_type=subsequence
+CPSQSTRKEFED
+>ABP0007 mechanism=pore | subtype= | gram=- | pmc_id=PMC10820675 | uniprot=None | entry=None | match_type=no_match
+CSSGSLWRLIRRFLRR
+>ABP0008 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC8145222 | uniprot=None | entry=None | match_type=no_match
+CSYSTRPYFIRWQLKFKTKIWC
+>ABP0009 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC8145222 | uniprot=None | entry=None | match_type=no_match
+CSYSTRPYFLRWRLKFKSKVWC
+>5734 mechanism=pore | subtype= | gram= | pmc_id=PMC7583308 | uniprot=Q28053 | entry=A4_BOVIN | match_type=subsequence
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA
+>ABP0010 mechanism=membrane_disruption | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+DAHGALTLNSDGTSGAVVKVPFAGNDLNI
+>14185 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P24492 | entry=DIPA_DROME | match_type=subsequence
+DDMTMKPTPPPQYPLNLQGGGGGQSGDGFGFAVQGHQKVWTSDNGRHEIGLNGGYGQHLG
+GPYGNSEPSWKVGSTYTYRFPNF
+>4569 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P82417 | entry=GTX3D_NEOGO | match_type=exact_match
+DFKDWMKTAGEWLKKKGPGILKAAMAAAT
+>4148 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC7559477 | uniprot=P15516 | entry=HIS3_HUMAN | match_type=subsequence
+DSHAKRHHGYKRKFHEKHHSHRGY
+>6300 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+EPFKLSLHL
+>18675 mechanism=carpet | subtype= | gram=- | pmc_id=PMC7168153 | uniprot=None | entry=None | match_type=no_match
+FFGHLLRGIVSVGKHIHGLITG
+>6488 mechanism=biofilm_destruction | subtype= | gram=- | pmc_id=PMC8348142 | uniprot=None | entry=None | match_type=no_match
+FIGAIARLLSKIF
+>5979 mechanism=pore | subtype= | gram= | pmc_id=PMC6267271 | uniprot=P82428 | entry=WTX1F_NEOGO | match_type=exact_match
+FIGTALGIASAIPAIVKLFK
+>4275 mechanism=pore | subtype= | gram= | pmc_id=PMC11308023 | uniprot=P0C006 | entry=PISC3_MORCS | match_type=exact_match
+FIHHIFRGIVHAGRSIGRFLTG
+>4560 mechanism=carpet | subtype= | gram=- | pmc_id=PMC7915578 | uniprot=None | entry=None | match_type=no_match
+FIHHIIGGLFSAGKAIHRLIRRRRR
+>4559 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC7286473 | uniprot=None | entry=None | match_type=no_match
+FIHHIIGGLFSVGKHIHSLIHGH
+>4487 mechanism=pore | subtype= | gram=- | pmc_id=PMC8069920 | uniprot=None | entry=None | match_type=no_match
+FKLRAKIKVRLRAKIKL
+>6115 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6418133 | uniprot=None | entry=None | match_type=no_match
+FLPKLFAKITKKNMAHIR
+>20180 mechanism=pore | subtype= | gram= | pmc_id=PMC6418133 | uniprot=None | entry=None | match_type=no_match
+FLPKLFAKITKKNMAHIRC
+>18751 mechanism=pore | subtype= | gram= | pmc_id=PMC8123395 | uniprot=None | entry=None | match_type=no_match
+FLPLIAGLFGKIF
+>23763 mechanism=pore | subtype= | gram= | pmc_id=PMC8639500 | uniprot=None | entry=None | match_type=no_match
+FLPLLISALTSLFPKLGK
+>ABP0011 mechanism=pore | subtype= | gram= | pmc_id=PMC8639500 | uniprot=None | entry=None | match_type=no_match
+FLPRRISARTSLFPKRGK
+>27699 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FPLTCPTKWWKG
+>27698 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=Q9FSI9 | entry=HINB1_HORVU | match_type=subsequence
+FPLTWPTKWWKG
+>27554 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FPVTFRFFKFFKG
+>27555 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FPVTWGWWKWWKG
+>27556 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FPVTWPTKWLKG
+>27557 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FPVTWPTKWRKG
+>27697 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FPVTWPTKWWEG
+>23112 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=Q9LEH8 | entry=HINB2_HORVU | match_type=subsequence
+FPVTWPTKWWKG
+>27558 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FPVTWPTKWWKS
+>23113 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796;PMC7696940 | uniprot=P33432 | entry=PUIA_WHEAT | match_type=subsequence
+FPVTWRWWKWWKG
+>23114 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=Q9M4E3 | entry=HINA_HORVU | match_type=subsequence
+FPVTWRWWTWWKG
+>23115 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+FSVTWRWWKWWKG
+>5554 mechanism=pore | subtype= | gram=- | pmc_id=PMC5628310 | uniprot=P81463 | entry=ABAE_BOMPA | match_type=exact_match
+FVPYNPPRPGQSKPFPSFPGHGPFNPKIQWPYPLPNPGH
+>6631 mechanism=carpet | subtype= | gram=+;+/- | pmc_id=PMC11055889;PMC2748101;PMC8537239 | uniprot=P57104 | entry=TPL_RANTE | match_type=exact_match
+FVQWFSKFLGRIL
+>6752 mechanism=pore | subtype= | gram= | pmc_id=PMC4096598 | uniprot=P83240 | entry=NDB31_PANIM | match_type=exact_match
+FWGALAKGALKLIPSLFSSFSKKD
+>5945 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P82427 | entry=WTX1E_NEOGO | match_type=exact_match
+FWGALIKGAAKLIPSVVGLFKKKQ
+>ABP0012 mechanism=pore | subtype= | gram=+ | pmc_id=PMC5890168 | uniprot=None | entry=None | match_type=no_match
+GEIDNNQCQICELLVKDIIEGLTANQSVEVIEHGLNLICDHIPLHVRVCKQFVDSNFQKI
+VQFIENHDDPQEICEKCGVC
+>ABP0013 mechanism=pore | subtype= | gram=- | pmc_id=PMC6705042 | uniprot=P81862 | entry=PAP5_PARMA | match_type=exact_match
+GFFALIPKIISSPLFKTLLSAVGSALSSSGDQE
+>6431 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC11302733 | uniprot=A0A193H395 | entry=CZS1_CRUCA | match_type=subsequence
+GFLDIVKGVGKVALGAVSKLF
+>18575 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC11302733 | uniprot=None | entry=None | match_type=no_match
+GFLDTLKNIGKTVGRIALNVLT
+>ABP0014 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC11302733 | uniprot=A0A193H2U2 | entry=CZS4_CRUCA | match_type=subsequence
+GFLDVIKHVGKAALSVVSHLINE
+>ABP0015 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC11302733 | uniprot=None | entry=None | match_type=no_match
+GFLDVLKGVGKAALGAVTHLINQ
+>6873 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC5575948 | uniprot=C0HKQ5 | entry=XAC1_XYLAI | match_type=exact_match
+GFVALLKKLPLILKHLH
+>5675 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC5575948 | uniprot=C0HKQ6 | entry=XAC2_XYLAI | match_type=exact_match
+GFVALLKKLPLILKHLP
+>14552 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P81417 | entry=CECA1_AEDAL | match_type=subsequence
+GGLKKLGKKLEGVGKRVFKASEKALPVAVGIKALG
+>4177 mechanism=pore | subtype= | gram=+;+/- | pmc_id=PMC6267271;PMC6658469;PMC7168298;PMC7695215 | uniprot=Q8LW54 | entry=MELS_APICE | match_type=subsequence
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>4161 mechanism=pore | subtype= | gram=- | pmc_id=PMC6705042 | uniprot=P11006 | entry=MAGA_XENLA | match_type=subsequence
+GIGKFLHSAGKFGKAFVGEIMKS
+>4104 mechanism=pore | subtype= | gram=+;+/-;- | pmc_id=PMC7168298;PMC8107365;PMC8347216 | uniprot=P11006 | entry=MAGA_XENLA | match_type=subsequence
+GIGKFLHSAKKFGKAFVGEIMNS
+>6692 mechanism=pore | subtype= | gram=+;- | pmc_id=PMC7412451;PMC7644326;PMC7835343 | uniprot=None | entry=None | match_type=no_match
+GIGKFLKKAKKFGKAFVKILKK
+>57056 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7355828 | uniprot=None | entry=None | match_type=no_match
+GIIAGIIIKIKK
+>5961 mechanism=pore | subtype= | gram=+ | pmc_id=PMC8382640 | uniprot=P80398 | entry=GGN4_GLARU | match_type=subsequence
+GILDTLKQFAKGVGKDLVKGAAQGVLSTVSCKLAKTC
+>ABP0016 mechanism=membrane_disruption | subtype= | gram=+ | pmc_id=PMC8034185 | uniprot=None | entry=None | match_type=no_match
+GIVAWFWRLAR
+>7224 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P82426 | entry=WTX1D_NEOGO | match_type=exact_match
+GIWGTALKWGVKLLPKLVGMAQTKKQ
+>5432 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P82425 | entry=WTX1C_NEOGO | match_type=exact_match
+GIWGTLAKIGIKAVPRVISMLKKKKQ
+>4171 mechanism=non-lytic | subtype= | gram= | pmc_id=PMC7355828 | uniprot=None | entry=None | match_type=no_match
+GKIIKLKASLKLL
+>ABP0017 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC7432809 | uniprot=C0HLN5 | entry=TURA_SYNTU | match_type=subsequence
+GKKPGGWKCK
+>4611 mechanism=pore | subtype= | gram= | pmc_id=PMC6267271 | uniprot=P36193 | entry=DROS_DROME | match_type=subsequence
+GKPRPYSPRPTSHPRPIRV
+>4906 mechanism=carpet | subtype= | gram= | pmc_id=PMC4648102;PMC6151434 | uniprot=P82387 | entry=AUR12_RANRN | match_type=exact_match
+GLFDIIKKIAESF
+>7176 mechanism=pore | subtype= | gram=+ | pmc_id=PMC5121426;PMC6151434 | uniprot=P82066 | entry=MCU11_RANGE | match_type=exact_match
+GLFGVLAKVAAHVVPAIAEHF
+>ABP0018 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+GLKDWVKIAGGWLKKGPGILKAAMAAATQ
+>6843 mechanism=immunomodulatory | subtype= | gram= | pmc_id=PMC7904761 | uniprot=None | entry=None | match_type=no_match
+GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPEQ
+>7011 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P82419 | entry=GTX3F_NEOGO | match_type=exact_match
+GLVDVLGKVGGLIKKLLP
+>6643 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P82420 | entry=GTX3G_NEOGO | match_type=exact_match
+GLVDVLGKVGGLIKKLLPG
+>4272 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7070102;PMC8107365 | uniprot=C0HKP0 | entry=PGLR2_XENRU | match_type=exact_match
+GMASKAGAIAGKIAKVALKAL
+>ABP0019 mechanism=pore | subtype= | gram=- | pmc_id=PMC7892433 | uniprot=P17778 | entry=YOPM_YERPE | match_type=subsequence
+GNGEQREMAVSRLRDCLDRQA
+>5241 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC4938549 | uniprot=P54228 | entry=CTHL6_BOVIN | match_type=subsequence
+GRFKRFRKKFKKLFKKLSPVIPLLHLG
+>ABP0020 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7063992 | uniprot=P49931 | entry=PMP36_PIG | match_type=subsequence
+GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSI
+>ABP0021 mechanism=membrane_disruption | subtype= | gram=- | pmc_id=PMC7644326 | uniprot=None | entry=None | match_type=no_match
+GSGIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP
+>32315 mechanism=pore | subtype= | gram=- | pmc_id=PMC7795306 | uniprot=None | entry=None | match_type=no_match
+GSKKPVPIIYCNRRSGKCQRM
+>5873 mechanism=pore | subtype= | gram=- | pmc_id=PMC7795306 | uniprot=P55788 | entry=THAN_PODMA | match_type=exact_match
+GSKKPVPIIYCNRRTGKCQRM
+>4785 mechanism=pore | subtype= | gram=- | pmc_id=PMC8125054 | uniprot=P0DY15 | entry=NDB23_SCOPA | match_type=subsequence
+GVWDWIKKTAGKIWNSEPVKALKSQALNAAKNFVAEKIGATPS
+>5672 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P82414 | entry=GTX3A_NEOGO | match_type=exact_match
+GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ
+>4817 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P82415 | entry=GTX3B_NEOGO | match_type=exact_match
+GWKDWLKKGKEWLKAKGPGIVKAALQAATQ
+>7015 mechanism=pore | subtype= | gram=- | pmc_id=PMC6267271 | uniprot=P82416 | entry=GTX3C_NEOGO | match_type=exact_match
+GWKDWLNKGKEWLKKKGPGIMKAALKAATQ
+>5836 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P84222 | entry=CECC_DROER | match_type=subsequence
+GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR
+>ABP0022 mechanism=pore | subtype= | gram= | pmc_id=PMC7583308 | uniprot=Q28053 | entry=A4_BOVIN | match_type=subsequence
+GYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA
+>6389 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC4564682 | uniprot=P0C1Q4 | entry=MASTI_POLPI | match_type=exact_match
+IDWKKLLDAAKQIL
+>4116 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=P33046 | entry=CTHL4_BOVIN | match_type=subsequence
+ILPWKWPWWPWRR
+>4115 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6768957 | uniprot=P13068 | entry=LANN_LACLL | match_type=subsequence
+ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+>ABP0023 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6768957 | uniprot=None | entry=None | match_type=no_match
+ITSISLCTPGCKTGALMGCSFFGWVSACKNC
+>ABP0024 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6768957 | uniprot=None | entry=None | match_type=no_match
+ITSRILCTSSCKTGALMGCNMKTATCHCSIHVSK
+>ABP0025 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6768957 | uniprot=None | entry=None | match_type=no_match
+IVCGTDFDGR
+>6928 mechanism=pore | subtype= | gram=- | pmc_id=PMC10610086;PMC8125054;PMC9607800 | uniprot=P0DY16 | entry=NDB34_SCOPA | match_type=subsequence
+IWSFLIKAATKLLPSLFGGGKKDS
+>ABP0026 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC7913509 | uniprot=None | entry=None | match_type=no_match
+IYNCRRRFCKQRC
+>25845 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8153390 | uniprot=P08985 | entry=H2AV_DROME | match_type=subsequence
+KAKAKAVSRSARAGLQFPVGRIHRHLK
+>ABP0027 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC9952790 | uniprot=None | entry=None | match_type=no_match
+KAVKKLFKKWG
+>29285 mechanism=pore | subtype= | gram=+ | pmc_id=PMC7412451 | uniprot=None | entry=None | match_type=no_match
+KFLKKAKKFGKAFVKIL
+>21636 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8107365 | uniprot=None | entry=None | match_type=no_match
+KIAGKIAKIAGKIAKIAGKIA
+>31486 mechanism=pore | subtype= | gram= | pmc_id=PMC9415903 | uniprot=None | entry=None | match_type=no_match
+KILRGVSKKIMRTFLRRISKDILTGKK
+>7352 mechanism=carpet | subtype= | gram=+/-;- | pmc_id=PMC10970450;PMC11055889;PMC8069920;PMC8107365 | uniprot=None | entry=None | match_type=no_match
+KKLFKKILKYL
+>26854 mechanism=membrane_disruption | subtype=fusion of vesicles | gram=- | pmc_id=PMC3631201 | uniprot=None | entry=None | match_type=no_match
+KKLKKFKKLQ
+>19353 mechanism=pore | subtype= | gram=- | pmc_id=PMC8069920 | uniprot=None | entry=None | match_type=no_match
+KKLLKWLLKLL
+>ABP0028 mechanism=biofilm_destruction | subtype= | gram=+/- | pmc_id=PMC7504088 | uniprot=None | entry=None | match_type=no_match
+KKLLKWLLKLLKTTKS
+>ABP0029 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6107846 | uniprot=None | entry=None | match_type=no_match
+KKTKKNSSGDICTLTSECDHLATWVCC
+>4092 mechanism=pore | subtype= | gram= | pmc_id=PMC9358902 | uniprot=None | entry=None | match_type=no_match
+KKVVFWVKFK
+>29574 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7554977 | uniprot=None | entry=None | match_type=no_match
+KKWRKWLAKK
+>ABP0030 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC7369893;PMC7554977 | uniprot=None | entry=None | match_type=no_match
+KKWRKWLAKKN
+>21904 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8107365 | uniprot=None | entry=None | match_type=no_match
+KLALKLALKALKAALKLA
+>28702 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8537239 | uniprot=None | entry=None | match_type=no_match
+KLALKLALKAWKAALKLA
+>19443 mechanism=pore | subtype= | gram=+ | pmc_id=PMC8425997 | uniprot=None | entry=None | match_type=no_match
+KLKLLLLLKLK
+>19806 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6222697 | uniprot=None | entry=None | match_type=no_match
+KLLKHKLLVTLA
+>33413 mechanism=biofilm_destruction | subtype= | gram=+;- | pmc_id=PMC6663011;PMC7503749 | uniprot=None | entry=None | match_type=no_match
+KNKRKRRRRRRGGRRRR
+>ABP0031 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC9602519 | uniprot=None | entry=None | match_type=no_match
+KNLLRRIRRKLRNKFSRSDVIKTPKIVEVN
+>15268 mechanism=carpet | subtype= | gram=+ | pmc_id=PMC2748101 | uniprot=None | entry=None | match_type=no_match
+KNLRRIIRKIIHIIKKYG
+>4250 mechanism=pore | subtype= | gram=+ | pmc_id=PMC10051595 | uniprot=U5KJC9 | entry=CAMP_BOTAT | match_type=subsequence
+KRFKKFFKKLK
+>4095 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7554977 | uniprot=Q1KLY3 | entry=CAMP_GORGO | match_type=subsequence
+KRIVQRIKDFLR
+>ABP0032 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7355828 | uniprot=None | entry=None | match_type=no_match
+KRRFFRRK
+>49195 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7355828 | uniprot=None | entry=None | match_type=no_match
+KRWHWWRRHWVVW
+>ABP0033 mechanism=pore | subtype= | gram=- | pmc_id=PMC7892433 | uniprot=None | entry=None | match_type=no_match
+KSKTEYYNAWAVWERNAPC
+>5687 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3709787 | uniprot=P80214 | entry=PLNA_LACPL | match_type=subsequence
+KSSAYSLQMGATAIKQVKKLFKKWGW
+>ABP0034 mechanism=immunomodulatory | subtype= | gram= | pmc_id=PMC6267271 | uniprot=Q8ISL8 | entry=APIM_APIME | match_type=subsequence
+KTSISVKGESNVDVVSQINSLVSSIVSGANVSAVLLAQTLVNILQILIDANVFA
+>6777 mechanism=pore | subtype= | gram=- | pmc_id=PMC6705042;PMC7168298 | uniprot=P01507 | entry=CECA_HYACE | match_type=subsequence
+KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK
+>4117 mechanism=pore | subtype= | gram=- | pmc_id=PMC6255091;PMC8069920 | uniprot=None | entry=None | match_type=no_match
+KWKLFKKIGAVLKVL
+>ABP0035 mechanism=pore | subtype= | gram= | pmc_id=PMC6255091 | uniprot=None | entry=None | match_type=no_match
+KWKLKFKIGLVKLVAV
+>5517 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P01508 | entry=CECB_HYACE | match_type=subsequence
+KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL
+>33125 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+KWKVFKKIEKMGRNIRNGIVKAGPKWKVFKKIEK
+>57635 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC7961353 | uniprot=None | entry=None | match_type=no_match
+LARLRRLCFLWAAAWPWPWR
+>18839 mechanism=carpet | subtype= | gram=+ | pmc_id=PMC10051583 | uniprot=None | entry=None | match_type=no_match
+LKRVWKRVFKLLKRYWRQLKKPVR
+>4075 mechanism=carpet | subtype= | gram=+;- | pmc_id=PMC10051595;PMC3722296;PMC6500437;PMC6705042 | uniprot=P49913 | entry=CAMP_HUMAN | match_type=subsequence
+LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+>5497 mechanism=pore | subtype= | gram= | pmc_id=PMC6267271 | uniprot=P82422 | entry=LTX2B_NEOGO | match_type=exact_match
+LLKELWTKIKGAGKAVLGKIKGLL
+>ABP0036 mechanism=pore | subtype= | gram= | pmc_id=PMC6267271 | uniprot=P82421 | entry=LTX2A_NEOGO | match_type=subsequence
+LLKELWTKMKGAGKAVLGKI
+>4209 mechanism=pore | subtype= | gram=- | pmc_id=PMC8069920 | uniprot=None | entry=None | match_type=no_match
+LLLFLLKKRKKRKY
+>6271 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8537239 | uniprot=P79874 | entry=TPB_RANTE | match_type=subsequence
+LLPIVGNLLKSLL
+>ABP0037 mechanism=pore | subtype= | gram= | pmc_id=PMC9415903 | uniprot=Q29075 | entry=NKL_PIG | match_type=subsequence
+LRRISKDILTGKK
+>ABP0038 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6107846 | uniprot=None | entry=None | match_type=no_match
+MKKNLMNSAEESSGNVLEELNNAQLGMISGG
+>27560 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC3788796 | uniprot=None | entry=None | match_type=no_match
+MPLSWFFPRTWGKR
+>ABP0039 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6768957 | uniprot=P13068 | entry=LANN_LACLL | match_type=subsequence
+MSTKDFNLDLV
+>ABP0040 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6768957 | uniprot=P13068 | entry=LANN_LACLL | match_type=subsequence
+MSTKDFNLDLVSV
+>ABP0041 mechanism=pore | subtype= | gram=- | pmc_id=PMC7719739 | uniprot=None | entry=None | match_type=no_match
+MTPLWRIMLLFKPHALCQNNY
+>28630 mechanism=membrane_disruption | subtype= | gram=+ | pmc_id=PMC7379261 | uniprot=None | entry=None | match_type=no_match
+NKVKEWIKYLKSLFS
+>6858 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+PFKLSLHL
+>ABP0042 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC7258946 | uniprot=P02776 | entry=PLF4_HUMAN | match_type=subsequence
+PLYKKIIKKLLE
+>29701 mechanism=membrane_disruption | subtype=fusion of vesicles | gram=- | pmc_id=PMC7730630 | uniprot=None | entry=None | match_type=no_match
+PMKKKLAARILAKIVAPVW
+>ABP0043 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC4745983 | uniprot=None | entry=None | match_type=no_match
+PRPRPPRRIYNR
+>ABP0044 mechanism=non-lytic | subtype= | gram=+ | pmc_id=PMC7381244 | uniprot=None | entry=None | match_type=no_match
+PTRFGGPPQTCSSDSSCTNNYTDK
+>ABP0045 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC7559477 | uniprot=None | entry=None | match_type=no_match
+QQQAKRHHGYKRKFQQQQQSHRGY
+>4158 mechanism=pore | subtype= | gram= | pmc_id=PMC2614469;PMC6026836 | uniprot=P32194 | entry=PG1_PIG | match_type=subsequence
+RGGRLCYCRRRFCVCVGR
+>ABP0046 mechanism=intracellular_targeting | subtype=coaggregation_of_ribosomal_protein | gram=- | pmc_id=PMC8469417 | uniprot=None | entry=None | match_type=no_match
+RKKRRQRRRGGGGITDFGIFIGL
+>ABP0047 mechanism=intracellular_targeting | subtype=coaggregation_of_ribosomal_protein | gram=- | pmc_id=PMC8469417 | uniprot=None | entry=None | match_type=no_match
+RKKRRQRRRGGGGLHITDMAWKR
+>26668 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8472000 | uniprot=None | entry=None | match_type=no_match
+RLKWVRIWRR
+>5859 mechanism=carpet | subtype= | gram= | pmc_id=PMC11055889 | uniprot=P01289 | entry=TKN1_BOVIN | match_type=subsequence
+RPKPQQFFGLM
+>21678 mechanism=carpet | subtype= | gram=+/-;- | pmc_id=PMC10970450;PMC8069920 | uniprot=None | entry=None | match_type=no_match
+RRLFRRILRWL
+>33578 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8153390 | uniprot=None | entry=None | match_type=no_match
+RRPRPRPRPWWWW
+>ABP0048 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6566986 | uniprot=None | entry=None | match_type=no_match
+RRRGRRRGPPGRRRGRRR
+>ABP0049 mechanism=membrane_disruption | subtype= | gram=- | pmc_id=PMC8523948 | uniprot=None | entry=None | match_type=no_match
+RRRRCRFCC
+>28681 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC11336422 | uniprot=P38835 | entry=YHT1_YEAST | match_type=subsequence
+RRRRRRRRRRRR
+>ABP0050 mechanism=pore | subtype= | gram=+ | pmc_id=PMC3722296 | uniprot=P05059 | entry=CMGA_BOVIN | match_type=subsequence
+RSMRLSFRARG
+>18487 mechanism=pore | subtype= | gram=+ | pmc_id=PMC3722296 | uniprot=P05059 | entry=CMGA_BOVIN | match_type=subsequence
+RSMRLSFRARGYGFR
+>ABP0051 mechanism=pore | subtype= | gram=+ | pmc_id=PMC3722296 | uniprot=P05059 | entry=CMGA_BOVIN | match_type=subsequence
+RSMRLSFRARGYGFRGPGLQL
+>30764 mechanism=membrane_disruption | subtype= | gram=- | pmc_id=PMC4942614 | uniprot=None | entry=None | match_type=no_match
+RWWRWWRRWWRR
+>19183 mechanism=carpet | subtype= | gram=+/- | pmc_id=PMC7696940 | uniprot=None | entry=None | match_type=no_match
+SGKLCCRRKK
+>ABP0052 mechanism=pore | subtype= | gram=- | pmc_id=PMC9786851 | uniprot=None | entry=None | match_type=no_match
+SGWLPGREWVWRWRGRVF
+>ABP0053 mechanism=pore | subtype= | gram= | pmc_id=PMC7583308 | uniprot=Q28053 | entry=A4_BOVIN | match_type=subsequence
+SGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA
+>5327 mechanism=pore | subtype= | gram=- | pmc_id=PMC6705042 | uniprot=Q1KLX8 | entry=CAMP_HYLML | match_type=subsequence
+SLGNFFRKARKKIGEEFKRIVQRIKDFLQHLIPRTEA
+>7144 mechanism=carpet | subtype= | gram= | pmc_id=PMC11055889 | uniprot=P85870 | entry=DCRLN_OREDC | match_type=exact_match
+SLLSLIRKLIT
+>ABP0054 mechanism=membrane_disruption | subtype= | gram=- | pmc_id=PMC8523948 | uniprot=None | entry=None | match_type=no_match
+SPAGRNSRRRRCRFCCGCCPDMVGCGTCCKF
+>ABP0055 mechanism=carpet | subtype= | gram=+ | pmc_id=PMC3709787 | uniprot=None | entry=None | match_type=no_match
+SSLQMGATAIKQVKKLFKKKGG
+>ABP0056 mechanism=carpet | subtype= | gram=+ | pmc_id=PMC3709787 | uniprot=None | entry=None | match_type=no_match
+SSLQMGATAIKQVKKLWKKKGG
+>ABP0057 mechanism=pore | subtype= | gram=+ | pmc_id=PMC3722296 | uniprot=None | entry=None | match_type=no_match
+SSMKLSFRARGYGFRGPGPQL
+>7154 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P14661 | entry=CECP1_ASCSU | match_type=subsequence
+SWLSKTAKKLENSAKKRISEGIAIAIQGGPR
+>ABP0058 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7063992 | uniprot=None | entry=None | match_type=no_match
+TKVLKKIFGSIVKKAVSKGV
+>4178 mechanism=biofilm_destruction | subtype= | gram=+;- | pmc_id=PMC6663011;PMC7503749 | uniprot=None | entry=None | match_type=no_match
+TLISWIKNKRKQRPRVSRRRRRRGGRRRR
+>ABP0059 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+TPFKLSLH
+>6340 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+TPFKLSLHL
+>ABP0060 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC8145222 | uniprot=P42212 | entry=GFP_AEQVI | match_type=subsequence
+TTGKLPVPWPTLVTTFSYGVQCFS
+>ABP0061 mechanism=pore | subtype= | gram= | pmc_id=PMC7258946 | uniprot=P47992 | entry=XCL1_HUMAN | match_type=subsequence
+TWVRDVVRSMDRK
+>4929 mechanism=intracellular_targeting | subtype= | gram= | pmc_id=PMC6267271 | uniprot=P37362 | entry=PYRRH_PYRAP | match_type=exact_match
+VDKGSYLPRPTPPRPIYNRN
+>30069 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC8004669 | uniprot=None | entry=None | match_type=no_match
+VDKGSYRPRPTPPKPIYNRN
+>5623 mechanism=pore | subtype= | gram=- | pmc_id=PMC6705042 | uniprot=P80710 | entry=CLAVA_STYCL | match_type=subsequence
+VFQFLGKIIHHVGNFVHGFSHVF
+>57771 mechanism=pore | subtype= | gram=+ | pmc_id=PMC7168298 | uniprot=None | entry=None | match_type=no_match
+VGALAVVVWLWLWLWG
+>ABP0062 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7063992 | uniprot=None | entry=None | match_type=no_match
+VKRTKRGARRGL
+>ABP0063 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC7355828 | uniprot=None | entry=None | match_type=no_match
+VKVKVRVKVPPTKVKVRVKV
+>4176 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC8001998 | uniprot=C0HK44 | entry=LL3_LASLA | match_type=exact_match
+VNWKKILGKIIKVVK
+>ABP0064 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6053492 | uniprot=Q9K7K5 | entry=DBH2_HALH5 | match_type=subsequence
+VQLIGFGNFEVR
+>18821 mechanism=membrane_disruption | subtype= | gram= | pmc_id=PMC8012516 | uniprot=None | entry=None | match_type=no_match
+VQWRIRVAVIRK
+>20275 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7555028;PMC8472000 | uniprot=None | entry=None | match_type=no_match
+VRLIVKVRIWRR
+>ABP0065 mechanism=pore | subtype= | gram=- | pmc_id=PMC7835343 | uniprot=Q28880 | entry=LAP_BOVIN | match_type=subsequence
+VRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK
+>18936 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7063992 | uniprot=None | entry=None | match_type=no_match
+VRRSKRGIKVPSFVKKVLKDVVSESIS
+>ABP0066 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC8929087 | uniprot=None | entry=None | match_type=no_match
+VTCDLLKPFFGRAPCMMHCILRFKKRTGFCSRQNVCVCR
+>ABP0067 mechanism=pore | subtype= | gram=+ | pmc_id=PMC6267271 | uniprot=None | entry=None | match_type=no_match
+VTCDLLSFKQVNDSACAANCLSLGKAGGHCEKGVCICRKTSFKDLWDKYF
+>ABP0068 mechanism=pore | subtype= | gram=+ | pmc_id=PMC10823733 | uniprot=Q5SC60 | entry=ANN1_AREMA | match_type=subsequence
+VYAYVRVRGVLVRYRRC
+>ABP0069 mechanism=carpet | subtype= | gram=- | pmc_id=PMC7168153 | uniprot=None | entry=None | match_type=no_match
+WFGHLLRGIVSVGKHIHGLITG
+>57328 mechanism=carpet | subtype= | gram=- | pmc_id=PMC10970450 | uniprot=None | entry=None | match_type=no_match
+WKKLFKKILKYL
+>48457 mechanism=carpet | subtype= | gram=- | pmc_id=PMC10482868 | uniprot=None | entry=None | match_type=no_match
+WKKLKKLLKKLKKL
+>5433 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P82423 | entry=WTX1A_NEOGO | match_type=exact_match
+WLGSALKIGAKLLPSVVGLFKKKKQ
+>5214 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P82424 | entry=WTX1B_NEOGO | match_type=exact_match
+WLGSALKIGAKLLPSVVGLFQKKKK
+>4780 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC6267271 | uniprot=P01510 | entry=CECD_HYACE | match_type=subsequence
+WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK
+>8859 mechanism=membrane_disruption | subtype= | gram=+/- | pmc_id=PMC8140080 | uniprot=None | entry=None | match_type=no_match
+WRKWRKRWWWRKWRKRWW
+>18935 mechanism=pore | subtype= | gram=+/- | pmc_id=PMC7063992 | uniprot=None | entry=None | match_type=no_match
+WYQLIRTFGNLIHQKYRKLLEAYRKLRD
+>18335 mechanism=pore | subtype= | gram= | pmc_id=PMC9415903 | uniprot=P04326 | entry=TAT_HV112 | match_type=subsequence
+YGRKKRRQRRR
+>4606 mechanism=carpet | subtype= | gram=+;+/- | pmc_id=PMC3709787;PMC9952790 | uniprot=None | entry=None | match_type=no_match
+YSLQMGATAIKQVKKLFKKKGG
+>ABP0070 mechanism=carpet | subtype= | gram=+ | pmc_id=PMC3709787 | uniprot=None | entry=None | match_type=no_match
+YSLQMGATAIKQVKKLWKKKGG
