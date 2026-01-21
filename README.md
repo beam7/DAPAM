@@ -68,11 +68,11 @@ pip install -r requirements.txt
 
 | Mechanism | Count |
 |-----------|-------|
-| Pore | 159 |
-| Carpet | 40 |
-| Membrane disruption | 5 |
-| Immunomodulatory | 3 |
-| Intracellular targeting | 1 |
+| Pore | 124 |
+| Carpet | 37 |
+| Membrane disruption | 36 |
+| Immunomodulatory | 2 |
+| Intracellular targeting | 3 |
 
 ## Statistical Validation
 
