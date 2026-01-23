@@ -15,7 +15,7 @@ Antibacterial peptides offer promising alternatives to conventional antibiotics,
 
 ## Pipeline
 
-![DAPAM Pipeline](https://github.com/beam7/DAPAM/blob/main/DAPAMpipeline.png)
+![DAPAM Pipeline](https://github.com/beam7/DAPAM/blob/main/DAPAM.png)
 
 ### Key Statistics
 
